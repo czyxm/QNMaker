@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"qndb.questionnaires"},{"v":{"$numberInt":"2"},"unique":true,"key":{"title":{"$numberInt":"1"}},"name":"title_1","ns":"qndb.questionnaires","background":true}],"uuid":"6b664c9806ed4d2a913cf3290a579010"}
