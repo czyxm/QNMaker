@@ -16,7 +16,7 @@
     - 端口：27017
 - qnserver
   - cmd进入qnserver目录下运行`npm install`
-  - 运行`nodemo ./bin/www`启动
+  - 运行`nodemon ./bin/www`启动
   - 监听3000端口
 - qnclient
   - cmd进入qnclient目录下运行`npm install`
